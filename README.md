@@ -1,7 +1,8 @@
-Hello there and welcome to my profile. 👋
+Hello there, and welcome to my profile. 👋
 
-I am a Java developer currently focused on Minecraft plugin development. The first programming language I learned was C, though I remember very little of it. After that, I moved on to C++, then JavaScript, followed by Python. Eventually, I began working on open-source Java plugins while continuing to learn Java.
+I am a Java developer currently focused on developing Minecraft plugins. The first programming language I learnt was C, though I remember very little of it. After that, I moved on to C++, then JavaScript, followed by Python. Eventually, I began working on open-source Java plugins while continuing to learn Java.
 
+If you need help with any plugins, please don't hesitate to reach out to me or open an issue in the relevant project.
 
 <div align="center">
   <br><br>
